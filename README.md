@@ -22,8 +22,8 @@ const ARKI: Profile = Profile {
     name: "Arki",
     pronouns: ["He", "Him"],
     skills: Skills {
-        backend: ["Ruby", "Node.js", "Go"],
-        frontend: ["HTML", "JavaScript", "React", "CSS"],
+        backend: ["Ruby", "Node.js", "Go", "Rust"],
+        frontend: ["HTML", "JavaScript", "Vue", "CSS"],
         database: ["PostgreSQL", "MySQL", "Redis"],
         cloud: ["AWS", "GCP", "DigitalOcean", "Heroku"],
         architecture: ["Microservices", "Event-driven", "Design Systems"],
