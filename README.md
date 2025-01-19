@@ -1,5 +1,7 @@
 ## Hi there, I'm Arki 👋
 
+
+<a target="_blank" href="https://www.credly.com/users/antonio-arias.e813681f"><img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"></img></a>
 <a target="_blank" href="https://dev.to/@arki"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/arkeazs"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/antonio-arias-b4639b335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
