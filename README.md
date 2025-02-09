@@ -37,9 +37,8 @@ const ARKI: Profile = Profile {
   skills: Skills {
       backend: ["Ruby", "Node.js", "Go", "Rust"],
       frontend: ["HTML", "JavaScript", "Vue", "CSS"],
-      database: ["PostgreSQL", "MySQL", "Redis"],
+      database: ["PostgreSQL", "MySQL", "MongoDB"],
       cloud: ["AWS", "GCP", "DigitalOcean", "Heroku"],
-      architecture: ["Microservices", "Event-driven", "Design Systems"],
   }
 };
 
