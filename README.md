@@ -38,7 +38,7 @@ const ARKI: Profile = Profile {
       backend: ["Ruby", "Node.js", "Go", "Rust"],
       frontend: ["HTML", "JavaScript", "Vue", "CSS"],
       database: ["PostgreSQL", "MySQL", "MongoDB"],
-      cloud: ["AWS", "GCP", "DigitalOcean", "Heroku"],
+      cloud: ["Heroku"],
   }
 };
 
